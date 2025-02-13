@@ -1,4 +1,6 @@
 # dsci-midterm-practice
+branch 1 change
+branch 2 change
 
 # LOCAL TEST i wanna make this edit (DUBS):
 How to run the script:
