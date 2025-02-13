@@ -1,6 +1,6 @@
 # dsci-midterm-practice
 
-# LOCAL TEST:
+# LOCAL TEST i wanna make this edit:
 How to run the script:
 1. build the container: `docker build -t mycontainer`
 2. run the container: `docker run -p 8787:8787 -e PASSWORD="password" mycontainer`
